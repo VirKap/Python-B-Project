@@ -23,7 +23,7 @@ https://wallethub.com/edu/happiest-places-to-live/32619
 The happiness index is calculated based on the mean of 3 happiness parameters (community, income, emotional factors). It is important to analyze these metrics individually to get more specific results.
 
 # Expected results (Consult instructor if you don’t have an idea):
-We expect for the correlation between walkability and happiness to be positive. We also expect that locations with higher incomes will have more walkability as a result of better resources.
+We expect for the correlation between walkability and happiness to be positive. We also expect that locations with higher incomes will have more walkability as a result of better resources. However, a strong correlation is not necessarily likely as there are bound to be outliers.
 
 # GitHub repository link
 https://github.com/VirKap/Python-B-Project
