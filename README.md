@@ -16,6 +16,7 @@ PyPlot, numpy, pandas, matplotlib
 
 # Possible Datasets to be used (at least 2):
 https://www.walkscore.com/cities-and-neighborhoods/
+
 https://wallethub.com/edu/happiest-places-to-live/32619
 
 # Any considerations that need to be taken into account:
